@@ -1,3 +1,3 @@
-# Processing and Arduino build
+# Construir de Processing y Arduino
 
 Estas son las instrucciones.
