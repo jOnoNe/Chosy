@@ -8,4 +8,4 @@ Bienvenido a la documentatación de código abierto para Chosy. El diseño de Ch
 ### Construir opciones
 • Processing + Arduino
 
-• [Clojure + Rasberry Pi](Build.md)
+• [Clojure + Rasberry Pi](Clojure_and_Pi_build.md)
